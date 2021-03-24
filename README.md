@@ -11,7 +11,7 @@ I'm a Software Engineer @ Pixartprinting.
 Kotlin enthusiast, graph databases villain and synthesizers lover, currently working with the cloud, but unfortunately not into it.
 
 ### 📬 Get in Touch
- - E-mail: marco.falcier@gmail.com
+ - E-mail: marcofalcier@gmail.com
  - LinkedIn: https://www.linkedin.com/in/marcofalcier/
  - Twitter: https://twitter.com/mfalcier
  - Resume: https://mfalcier.github.io/online-cv/
