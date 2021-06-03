@@ -6,7 +6,7 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-Expert-green)
 ![Java](https://img.shields.io/badge/Java-Professional-orange)
 
-I'm a Software Engineer @ Generali Buisness Solution. 
+I'm a Software Engineer @ Generali Business Solution. 
 
 Kotlin enthusiast, graph databases villain and synthesizers lover, currently working with the cloud, but unfortunately not into it.
 
