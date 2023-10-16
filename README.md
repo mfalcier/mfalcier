@@ -17,6 +17,7 @@ Kotlin enthusiast, graph databases villain and synthesizers lover, currently wor
  - Resume: https://mfalcier.github.io/online-cv/
 
 ### 📢 Speaches
+ - [Java Lambda functions unleashed with GraalVM](https://www.youtube.com/watch?v=3lRyFDNFPgg) - *22 October 2022, Venice Devfest Triveneto 2022*
  - [Serverless Telegram Bot with Kotlin: 0$](https://www.youtube.com/watch?v=k3faWFnY-YU) - *12 May 2020, Venice GDG Online Meetup*
  - [Serverless Telegram Bot with Kotlin: 0$](https://milan.kotlincommunityconf.com/#schedule) - *29 November 2019, Milan Kotlin Community Conf. 2019*
  - [Serverless Event-driven Architecture with Kotlin: the Pixartprinting use case](https://www.youtube.com/watch?v=4vsduSesG6U) - *24 November 2018, DevFest Veneto 2018*
