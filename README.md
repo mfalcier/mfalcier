@@ -17,6 +17,7 @@ Kotlin enthusiast, graph databases villain and synthesizers lover, currently wor
  - Resume: https://mfalcier.github.io/online-cv/
 
 ### 📢 Speaches
+ - [Graphs are everywhere... even on AWS!](https://www.youtube.com/watch?v=FNFe2q3XnM4) - *19 September 2024, AWS User Group Venezia*
  - [Java Lambda functions unleashed with GraalVM](https://www.youtube.com/watch?v=uAeqoy45ERM) - *25 January 2024, AWS User Group Venezia*
  - [Building a serverless modern BE for mobile apps](https://www.youtube.com/watch?v=KG7gE4H5j4A) - *2 December 2023, Devfest Venezia 2023*
  - [Java Lambda functions unleashed with GraalVM](https://www.youtube.com/watch?v=3lRyFDNFPgg) - *22 October 2022, Venice Devfest Triveneto 2022*
