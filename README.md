@@ -6,9 +6,9 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-Expert-green)
 ![Java](https://img.shields.io/badge/Java-Professional-orange)
 
-I'm a Software Engineer @ Generali Italia. 
+I'm an Application Architect @ Generali Italia. 
 
-Kotlin enthusiast, graph databases villain and synthesizers lover, currently working with the cloud, but unfortunately not into it.
+Kotlin enthusiast, graph databases villain, synthesizers lover and MTG addicted, currently working with the cloud, but unfortunately not into it.
 
 ### 📬 Get in Touch
  - E-mail: marcofalcier@gmail.com
@@ -17,6 +17,7 @@ Kotlin enthusiast, graph databases villain and synthesizers lover, currently wor
  - Resume: https://mfalcier.github.io/online-cv/
 
 ### 📢 Speaches
+ - [From Chaos to Clarity: Revamping Sales Networks with Graph Power](https://www.youtube.com/watch?v=zIciC0WbxZM) - *16 November 2024, Devfest Venezia 2024*
  - [Graphs are everywhere... even on AWS!](https://www.youtube.com/watch?v=FNFe2q3XnM4) - *19 September 2024, AWS User Group Venezia*
  - [Java Lambda functions unleashed with GraalVM](https://www.youtube.com/watch?v=uAeqoy45ERM) - *25 January 2024, AWS User Group Venezia*
  - [Building a serverless modern BE for mobile apps](https://www.youtube.com/watch?v=KG7gE4H5j4A) - *2 December 2023, Devfest Venezia 2023*
